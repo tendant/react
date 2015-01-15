@@ -1,9 +1,9 @@
 ---
 id: multiple-components-zh-CN
-title: Multiple Components
+title: 多个组件
 permalink: multiple-components-zh-CN.html
 prev: interactivity-and-dynamic-uis-zh-CN.html
-next: reusable-components.html
+next: reusable-components-zh-CN.html
 ---
 
 到目前为止，我们看到了怎么编写单个的组件用来显示数据和处理用户输入。下面让我们来看看一个React 最酷的功能：可组合性。
